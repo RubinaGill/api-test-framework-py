@@ -1,0 +1,13 @@
+pytest
+pytest-bdd
+requests
+assertpy
+jsonpath-ng
+pydantic
+allure-pytest
+python-dotenv
+pytest-mock
+pytest-xdist
+flake8
+black
+isort
